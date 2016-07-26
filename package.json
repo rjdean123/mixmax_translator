@@ -1,0 +1,27 @@
+{
+  "name": "mixmax_translator",
+  "version": "1.0.0",
+  "description": "translator slash command (eng. to span. for now)",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rjdean123/mixmax_translator.git"
+  },
+  "author": "rjdean123",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rjdean123/mixmax_translator/issues"
+  },
+  "homepage": "https://github.com/rjdean123/mixmax_translator#readme",
+  "dependencies": {
+    "body-parser": "^1.12.2",
+    "cors": "^2.7.1",
+    "express": "^4.12.3",
+    "request": "^2.64.0",
+    "synchronize": "^0.9.14",
+    "underscore": "^1.8.3"
+  }
+}
